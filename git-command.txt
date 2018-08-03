@@ -1,0 +1,9 @@
+// creating pid
+eval "$(ssh-agent -s)"
+
+// add pid
+ssh-add
+
+// show the ssh-key from local machin
+cat ~/ .ssh/id_rsa.pub
+
