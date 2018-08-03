@@ -19,3 +19,6 @@ git remote show
 
 // upload to server 
 git push origin master
+
+// pull another devloper changes
+git pull origin master
