@@ -7,3 +7,6 @@ ssh-add
 // show the ssh-key from local machin
 cat ~/ .ssh/id_rsa.pub
 
+
+// Use an SSH key and passphrase from account
+git clone [ssh-key]
