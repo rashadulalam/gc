@@ -13,3 +13,6 @@ git clone [ssh-key]
 
 // add existing project to the github
 git remote add origin [ssh-key]
+
+// to show remote
+git remote show
