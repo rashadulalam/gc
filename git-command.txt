@@ -10,3 +10,6 @@ cat ~/ .ssh/id_rsa.pub
 
 // Use an SSH key and passphrase from account
 git clone [ssh-key]
+
+// add existing project to the github
+git remote add origin [ssh-key]
