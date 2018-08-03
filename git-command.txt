@@ -16,3 +16,6 @@ git remote add origin [ssh-key]
 
 // to show remote
 git remote show
+
+// upload to server 
+git push origin master
