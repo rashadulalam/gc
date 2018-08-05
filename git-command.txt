@@ -33,3 +33,7 @@ git remote -v
 
 // remove remote
 git remote rm [remote-name]
+
+
+// Git local configuration
+git config --local -e
