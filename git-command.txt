@@ -25,3 +25,11 @@ git push origin master
 
 // pull another devloper changes
 git pull origin master
+
+// Git Remote Comand
+------------------------
+//show remote 
+git remote -v
+
+// remove remote
+git remote rm [remote-name]
