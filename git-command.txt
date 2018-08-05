@@ -1,3 +1,6 @@
+// Generate new keys
+ssh-keygen
+
 // creating pid
 eval "$(ssh-agent -s)"
 
